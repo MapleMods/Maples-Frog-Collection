@@ -1,6 +1,6 @@
 # Maple's Frog Collection
 
-Minecraft 26.1.2 | Version 1.0
+Minecraft 26.1.2 | Version 1.1
 
 Download the mod here! :)
 
