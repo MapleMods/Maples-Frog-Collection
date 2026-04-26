@@ -22,7 +22,7 @@ issueTrackerURL="https://github.com/MapleMods/Maples-Frog-Collection/issues"
 [[dependencies.${mod_id}]]
     modId="sapling"
     type="required"
-    versionRange="[2.2,)"
+    versionRange="[2.4,)"
     ordering="NONE"
     side="BOTH"
 
